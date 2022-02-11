@@ -88,7 +88,7 @@ nav ul li a:hover{
     min-height: 95vh;
     display: flex;
     align-items: center;
-    background: url(8.jpg) no-repeat  ;
+    background: url(img/8.jpg) no-repeat  ;
     background-size: cover;
     background-position: center;
 
@@ -115,7 +115,7 @@ nav ul li a:hover{
     min-height: 95vh;
     display: flex;
     align-items: center;
-    background: url(15.jpg) no-repeat  ;
+    background: url(img/15.jpg) no-repeat  ;
     background-size: cover;
     background-position: center;
 
@@ -128,7 +128,7 @@ nav ul li a:hover{
     color: rgb(0, 0, 0);
     padding: 1rem;
     padding-top: 1rem;
-    background: url(color.jfif) no-repeat center ;
+    background: url(img/color.jfif) no-repeat center ;
     background-size: cover;
 }
 
@@ -280,7 +280,7 @@ footer{
         min-height: 75vh;
         display: flex;
         align-items: center;
-        background: url(8.jpg) no-repeat  ;
+        background: url(img/8.jpg) no-repeat  ;
         background-size: cover;
         background-position: center;
     
@@ -289,7 +289,7 @@ footer{
         min-height: 58vh;
         display: flex;
         align-items: center;
-        background: url(15.jpg) no-repeat  ;
+        background: url(img/15.jpg) no-repeat  ;
         background-size: contain;
         background-position: center;
     
@@ -301,7 +301,7 @@ footer{
         padding: 1rem;
         padding-top: 2rem;
         padding-bottom: 2rem;
-        background: url(color.jfif) no-repeat center ;
+        background: url(img/color.jfif) no-repeat center ;
         background-size: cover;
     }
     .service .box-container .box{
@@ -374,7 +374,7 @@ footer{
         min-height: 65vh;
         display: flex;
         align-items: center;
-        background: url(8.jpg) no-repeat  ;
+        background: url(img/8.jpg) no-repeat  ;
         background-size: cover;
         background-position: center;
     
@@ -383,7 +383,7 @@ footer{
         min-height: 58vh;
         display: flex;
         align-items: center;
-        background: url(15.jpg) no-repeat  ;
+        background: url(img/15.jpg) no-repeat  ;
         background-size: contain;
         background-position: center;
     
@@ -395,7 +395,7 @@ footer{
         padding: 1rem;
         padding-top: 1rem;
         padding-bottom: 1rem;
-        background: url(color.jfif) no-repeat center;
+        background: url(img/color.jfif) no-repeat center;
         background-size: cover;
     }
     .service .box-container .box{
@@ -468,7 +468,7 @@ footer{
         min-height: 65vh;
         display: flex;
         align-items: center;
-        background: url(8.jpg) no-repeat  ;
+        background: url(img/8.jpg) no-repeat  ;
         background-size: cover;
         background-position: center;
     
@@ -477,7 +477,7 @@ footer{
         min-height: 58vh;
         display: flex;
         align-items: center;
-        background: url(15.jpg) no-repeat  ;
+        background: url(img/15.jpg) no-repeat  ;
         background-size: contain;
         background-position: center;
     
@@ -489,7 +489,7 @@ footer{
     padding: 1rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background: url(color.jfif) no-repeat center;
+    background: url(img/color.jfif) no-repeat center;
     background-size: cover;
     }
     .service .box-container .box{
@@ -598,7 +598,7 @@ footer{
         min-height: 69vh;
     display: flex;
     align-items: center;
-    background: url(8.jpg) no-repeat;
+    background: url(img/8.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     
@@ -607,7 +607,7 @@ footer{
         min-height: 58vh;
         display: flex;
         align-items: center;
-        background: url(15.jpg) no-repeat  ;
+        background: url(img/15.jpg) no-repeat  ;
         background-size: contain;
         background-position: center;
     
@@ -619,7 +619,7 @@ footer{
     padding: 1rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
-    background: url(color.jfif) no-repeat center;
+    background: url(img/color.jfif) no-repeat center;
     background-size: cover;
     }
     .service .box-container .box{
