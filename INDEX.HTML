@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mission Prakarti</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    <link rel="stylesheet" href="STYLE.CSS">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <nav>
+        <nav class="topnav">
           <div class="logo" >
             <img src="logo.jpg" alt="" />
           </div>
-          <ul>
-            <li><a href="#"> <i class="fa fa-home" style="color: rgb(163, 27, 27); margin-left: 170px; "></i></a></li>
+          <ul id="mylink">
+            <li class="lispex"><a href="#"> <i class="fa fa-home"   @media screen and (max-width:1202px) and (min-width:950px){ style=" color: rgb(145, 24, 24); margin-left: 94px;"} @media  and (max-width:1000px) and (min-width:700px){ style=" color: rgb(105, 158, 88); margin-left:auto;"}></i></a></li>
             <li><a href="About Mission Prakarti.html">About Mission Prakarti</a></li>
             <li><a href="Course.html">Course</a></li>
             <li><a href="Awards.html">Awards</a></li>
@@ -23,12 +23,16 @@
             <li><a href="Our Partner.html">Our Partner</a></li>
             <button class="btn">Register Now</button>
           </ul>
+          
         </nav>
       </header>
    <section class="home" id="home">
        <div class="content">
 
-           <img src="5.png" alt=""  >
+           <img src="5.png" alt=""style="@media screen and (
+            max-width: 500px) and (min-width: 300px);
+            width: 108px;
+        "  >
     
            <h1>
             A GREENER FUTURE <br> BEGINS WITH YOU
@@ -56,32 +60,37 @@
         YOUR JOURNEY ON MISSION PRAKRITI
       </h2>
       <div class="box-container">
-          <div class="box">
+          <div class="box" >
               <i class="fas fa-chalkboard-user"></i>
-              <h3>Learn more about Mission Prakriti.</h3>
+              <h4>Learn more about us.</h4>
           </div>
           <div class="box">
             <i class="fas fa-chalkboard-user"></i>
-            <h3>Take the online self paced training course to learn how to implement it.</h3>
+            <h4>Learn, how implement it.</h4>
         </div>
         <div class="box">
             <i class="fas fa-chalkboard-user"></i>
-            <h3>Register for recognition.</h3>
+            <h4>Register for recognition.</h4>
         </div>
         <div class="box">
             <i class="fas fa-chalkboard-user"></i>
-            <h3>Implement Mission Prakriti in your school & neighbouring community.</h3>
+            <h4>Implement  in your society.</h4>
         </div>
         <div class="box">
             <i class="fas fa-chalkboard-user"></i>
-            <h3>Share your story.</h3>
+            <h4>Share your story.</h4>
         </div>
         <div class="box">
             <i class="fas fa-user-check"></i>
-            <h3>Get recognised for your effort.</h3>
+            <h4>Get recognised for your effort.</h4>
         </div>
       </div>
-   </section2>
+   </section2> <br>
+
+   <div class="newcolun" style="background-size: contain;">
+     <img src="111.jpg" alt="">
+     <img src="112.jpg" alt="">
+   </div>
 
 <!-- form -->
 <style>
@@ -115,7 +124,10 @@
       padding: 20px;
     }
     </style>
-    <h3>Contact Us</h3>
+    <h3 style="text-align: center;
+    font-size: 2.17em;
+    padding-bottom: 7px;
+                        ">Contact Us</h3>
     
     <div class="container42">
       <form action="/action_page.php">
@@ -142,7 +154,7 @@
     
 
    <footer class="flex-all-center">
-    <p>Copyright &copy; FAIZALSHOPPINGMART.COM</p>
+    <p>Copyright &copy; FAIZALMISSIONPRAKRITI.COM</p>
   </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script src="SCRIPT.JS">
